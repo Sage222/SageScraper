@@ -11,3 +11,4 @@ Run the script - put in the URL & Keyword.  Script will run and follow the links
 
 v1. Initial Build.
 v2. Added Clickable links.
+v3. Tidied up code.
